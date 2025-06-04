@@ -1,2 +1,2 @@
 # House-Price-Prediction
-There is description in file and requirements
+There are description in file and requirements
